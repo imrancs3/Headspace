@@ -1,7 +1,7 @@
 import { Text, View, FlatList} from "react-native";
-import { meditations } from "../data";
-import { Meditation } from "../types";
-import { MeditationList } from "../components/MeditationList";
+import { meditations } from "@/data";
+import { Meditation } from "@/types";
+import { MeditationList } from "@/components/MeditationList";
 
 
 
